@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hello! I'm Filipe!
 
-<!--
-**fiport/fiport** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me  
+I'm a full-stack developer passionate about technology, innovation, and best coding practices. My main stack includes **React Native, Angular, TypeORM, and Laravel**.
 
-Here are some ideas to get you started:
+### 🚀 Technologies & Tools  
+- **Frontend:** React Native (Expo), Angular, TailwindCSS  
+- **Backend:** Node.js, TypeORM, PHP (Laravel)  
+- **Databases:** MySQL, PostgreSQL  
+- **DevOps:** Docker, AWS (EC2, RDS, Secrets Manager), GitHub Actions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me  
+- LinkedIn: [filipeport](https://www.linkedin.com/in/filipeport)  
+- E-mail: filipe_port@hotmail.com
+---
+
+📌 _Always learning and sharing knowledge!_ 🚀
