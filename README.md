@@ -10,7 +10,7 @@ I'm a full-stack developer passionate about technology, innovation, and best cod
 - **DevOps:** Docker, AWS (EC2, RDS, Secrets Manager), GitHub Actions  
 
 ### 📫 Connect with Me  
-- LinkedIn: [filipeport](https://www.linkedin.com/in/filipeport)  
+- LinkedIn: [filipeport](https://www.linkedin.com/in/filipe-port-45921b188)  
 - E-mail: filipe_port@hotmail.com
 ---
 
